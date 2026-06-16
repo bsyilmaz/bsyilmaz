@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/bsyilmaz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Fikirden+production%27a+t%C3%BCm+hatt%C4%B1+kurar%C4%B1m.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Da%C4%9F%C4%B1t%C4%B1k+sistemler;Karma%C5%9F%C4%B1k+problem%2C+sade+%C3%A7%C3%B6z%C3%BCm." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Fikirden+production%27a+t%C3%BCm+hatt%C4%B1+kurar%C4%B1m.;Frontend+%E2%80%A2+Backend+%E2%80%A2+Distributed+systems;Karma%C5%9F%C4%B1k+problem%2C+sade+%C3%A7%C3%B6z%C3%BCm." alt="typing" />
   </a>
   &nbsp;
   <br/>
